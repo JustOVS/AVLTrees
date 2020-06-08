@@ -1,0 +1,18 @@
+﻿<Properties StartupConfiguration="{F446382A-1496-47EB-AB94-241580CD3A09}|Default">
+  <MonoDevelop.Ide.ItemProperties.AVLTree PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="AVLTrees/AVLTree.cs">
+    <Files>
+      <File FileName="AVLTrees/Program.cs" Line="14" Column="1" />
+      <File FileName="AVLTrees/AVLTreeNode.cs" />
+      <File FileName="AVLTrees/AVLTree.cs" Line="58" Column="32" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/olegsitikov/Documents/AVLTrees/AVLTrees/Program.cs" relfile="AVLTrees/Program.cs" line="14" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
