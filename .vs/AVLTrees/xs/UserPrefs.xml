@@ -1,11 +1,22 @@
 ﻿<Properties StartupConfiguration="{F446382A-1496-47EB-AB94-241580CD3A09}|Default">
   <MonoDevelop.Ide.ItemProperties.AVLTree PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="AVLTrees/AVLTree.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="AVLTrees/Program.cs">
     <Files>
-      <File FileName="AVLTrees/Program.cs" Line="14" Column="1" />
+      <File FileName="AVLTrees/Program.cs" Line="13" Column="24" />
       <File FileName="AVLTrees/AVLTreeNode.cs" />
       <File FileName="AVLTrees/AVLTree.cs" Line="58" Column="32" />
     </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="AVLTrees" expanded="True">
+            <Node name="AVLTree" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />

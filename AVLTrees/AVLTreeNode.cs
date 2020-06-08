@@ -193,22 +193,12 @@ namespace AVLTree
         {
             Right.RightRotation();
             LeftRotation();
-            //AVLTreeNode<TNode> newRoot = Left.Right;
-            //ReplaceRoot(newRoot);
-            //newRoot.Left = Left;
-            //Left = newRoot.Right;
-            //newRoot.Right = this;
         }
 
         private void RightLeftRotation()
         {
             Left.LeftRotation();
             RightRotation();
-            //AVLTreeNode<TNode> newRoot = Right.Left;
-            //ReplaceRoot(newRoot);
-            //newRoot.Right = Right;
-            //Right = newRoot.Left;
-            //newRoot.Left = this;
         }
     }
 }
